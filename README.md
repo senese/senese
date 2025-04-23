@@ -15,12 +15,12 @@ I hold a degree in Information Engineering from the Federal University of ABC (U
 
 ### ▶ Hobbies
 
-A man with a lot a hobbies:
+A man with a lot of a hobbies:
 - 🎼🎹 Piano / Keyboard
 - ⚽ Football - the real one 😅 - fan of Palmeiras 🟩🐷
-- Games 🎮
-- Gym 💪
-- And most recently, biking 🚴
+- 🎮 Games
+- 💪 Gym
+- 🚴 And most recently, biking
 
 ### 💻 Work
 
@@ -57,7 +57,7 @@ I’m currently working at TIM S.A., a major telco company in Brazil, acting as 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -89,7 +89,7 @@ I’m currently working at TIM S.A., a major telco company in Brazil, acting as 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/apachekafka/231F20" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
   <img width="12" />
